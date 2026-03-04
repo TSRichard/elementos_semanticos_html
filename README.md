@@ -86,7 +86,7 @@ Este arquivo HTML marca meus estudos sobre **elementos semânticos** introduzido
 │      <footer>       │
 │  Rodapé da página   │
 └─────────────────────┘
-
+```
 ## 👨‍💻 Autor
 **Richard Teixeira**
 ```
